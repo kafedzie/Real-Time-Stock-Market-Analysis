@@ -7,6 +7,7 @@ load_dotenv()
 
 #Configure Logging
 logging.basicConfig(
+    filename='stock_data_logs.log',
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
@@ -14,7 +15,8 @@ logging.basicConfig(
 logger =logging.getLogger(__name__)
 
 BASEURL = "alpha-vantage.p.rapidapi.com"
-url = "https://{BASEURL}/query"
+
+url = f"https://{BASEURL}/query"
 
 api_key = os.getenv('API_KEY')
 
