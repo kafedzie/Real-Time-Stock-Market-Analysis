@@ -8,3 +8,176 @@
 2026-06-20 00:53:34,598 - INFO - Stocks MSFT loaded successfully
 2026-06-20 00:53:35,127 - INFO - Stocks GOOGL loaded successfully
 2026-06-20 00:53:35,783 - INFO - Stocks MC loaded successfully
+2026-06-20 04:15:26,291 - INFO - Stocks TSLA loaded successfully
+2026-06-20 04:15:26,623 - INFO - Stocks MSFT loaded successfully
+2026-06-20 04:15:26,959 - INFO - Stocks GOOGL loaded successfully
+2026-06-20 04:15:27,632 - INFO - Stocks MC loaded successfully
+2026-06-25 12:54:48,554 - INFO - Stocks TSLA loaded successfully
+2026-06-25 12:54:48,914 - INFO - Stocks MSFT loaded successfully
+2026-06-25 12:54:49,255 - INFO - Stocks GOOGL loaded successfully
+2026-06-25 12:54:49,670 - INFO - Stocks MC loaded successfully
+2026-06-25 12:54:49,673 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: connecting to localhost:9094 [('::1', 9094, 0, 0) IPv6]
+2026-06-25 12:54:49,674 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 12:54:49,674 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 12:54:49,675 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: connecting to localhost:9094 [('127.0.0.1', 9094) IPv4]
+2026-06-25 12:54:49,676 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 12:54:49,676 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 12:54:49,676 - WARNING - No node available during check_version; sleeping 0.04 secs
+2026-06-25 12:54:49,721 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: connecting to localhost:9094 [('::1', 9094, 0, 0) IPv6]
+2026-06-25 12:54:49,724 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 12:54:49,724 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 12:54:49,724 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: connecting to localhost:9094 [('127.0.0.1', 9094) IPv4]
+2026-06-25 12:54:49,726 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 12:54:49,726 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 12:54:49,727 - WARNING - No node available during check_version; sleeping 0.08 secs
+2026-06-25 12:54:49,814 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: connecting to localhost:9094 [('::1', 9094, 0, 0) IPv6]
+2026-06-25 12:54:49,817 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 12:54:49,817 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 12:54:49,817 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: connecting to localhost:9094 [('127.0.0.1', 9094) IPv4]
+2026-06-25 12:54:49,818 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 12:54:49,818 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 12:54:49,818 - WARNING - No node available during check_version; sleeping 0.21 secs
+2026-06-25 12:54:50,034 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: connecting to localhost:9094 [('::1', 9094, 0, 0) IPv6]
+2026-06-25 12:54:50,037 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 12:54:50,037 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 12:54:50,037 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: connecting to localhost:9094 [('127.0.0.1', 9094) IPv4]
+2026-06-25 12:54:50,038 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 12:54:50,038 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 12:54:50,038 - WARNING - No node available during check_version; sleeping 0.45 secs
+2026-06-25 12:54:50,497 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: connecting to localhost:9094 [('::1', 9094, 0, 0) IPv6]
+2026-06-25 12:54:50,500 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 12:54:50,500 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 12:54:50,500 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: connecting to localhost:9094 [('127.0.0.1', 9094) IPv4]
+2026-06-25 12:54:50,502 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 12:54:50,502 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 12:54:50,502 - WARNING - No node available during check_version; sleeping 0.94 secs
+2026-06-25 12:54:51,446 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: connecting to localhost:9094 [('::1', 9094, 0, 0) IPv6]
+2026-06-25 12:54:51,448 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 12:54:51,448 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 12:54:51,448 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: connecting to localhost:9094 [('127.0.0.1', 9094) IPv4]
+2026-06-25 12:54:51,449 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 12:54:51,449 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 12:54:51,450 - WARNING - No node available during check_version; sleeping 0.22 secs
+2026-06-25 12:55:37,205 - INFO - Stocks TSLA loaded successfully
+2026-06-25 12:55:37,444 - INFO - Stocks MSFT loaded successfully
+2026-06-25 12:55:37,746 - INFO - Stocks GOOGL loaded successfully
+2026-06-25 12:55:38,025 - INFO - Stocks MC loaded successfully
+2026-06-25 12:55:38,029 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: connecting to localhost:9094 [('::1', 9094, 0, 0) IPv6]
+2026-06-25 12:55:38,030 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 12:55:38,031 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 12:55:38,031 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: connecting to localhost:9094 [('127.0.0.1', 9094) IPv4]
+2026-06-25 12:55:38,032 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 12:55:38,032 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 12:55:38,032 - WARNING - No node available during check_version; sleeping 0.06 secs
+2026-06-25 12:55:38,093 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: connecting to localhost:9094 [('::1', 9094, 0, 0) IPv6]
+2026-06-25 12:55:38,095 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 12:55:38,095 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 12:55:38,095 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: connecting to localhost:9094 [('127.0.0.1', 9094) IPv4]
+2026-06-25 12:55:38,096 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 12:55:38,096 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 12:55:38,096 - WARNING - No node available during check_version; sleeping 0.08 secs
+2026-06-25 12:55:38,182 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: connecting to localhost:9094 [('::1', 9094, 0, 0) IPv6]
+2026-06-25 12:55:38,183 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 12:55:38,184 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 12:55:38,184 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: connecting to localhost:9094 [('127.0.0.1', 9094) IPv4]
+2026-06-25 12:55:38,184 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 12:55:38,185 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 12:55:38,185 - WARNING - No node available during check_version; sleeping 0.21 secs
+2026-06-25 12:55:38,403 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: connecting to localhost:9094 [('::1', 9094, 0, 0) IPv6]
+2026-06-25 12:55:38,405 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 12:55:38,405 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 12:55:38,406 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: connecting to localhost:9094 [('127.0.0.1', 9094) IPv4]
+2026-06-25 12:55:38,406 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 12:55:38,406 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 12:55:38,407 - WARNING - No node available during check_version; sleeping 0.47 secs
+2026-06-25 12:55:38,880 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: connecting to localhost:9094 [('::1', 9094, 0, 0) IPv6]
+2026-06-25 12:55:38,881 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 12:55:38,881 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 12:55:38,881 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: connecting to localhost:9094 [('127.0.0.1', 9094) IPv4]
+2026-06-25 12:55:38,882 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 12:55:38,882 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 12:55:38,882 - WARNING - No node available during check_version; sleeping 0.68 secs
+2026-06-25 12:55:39,564 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: connecting to localhost:9094 [('::1', 9094, 0, 0) IPv6]
+2026-06-25 12:55:39,566 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 12:55:39,566 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 12:55:39,567 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: connecting to localhost:9094 [('127.0.0.1', 9094) IPv4]
+2026-06-25 12:55:39,568 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 12:55:39,568 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 12:55:39,568 - WARNING - No node available during check_version; sleeping 0.46 secs
+2026-06-25 13:22:38,197 - INFO - Stocks TSLA loaded successfully
+2026-06-25 13:22:38,496 - INFO - Stocks MSFT loaded successfully
+2026-06-25 13:22:38,797 - INFO - Stocks GOOGL loaded successfully
+2026-06-25 13:22:39,243 - INFO - Stocks MC loaded successfully
+2026-06-25 13:22:39,245 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: connecting to localhost:9094 [('::1', 9094, 0, 0) IPv6]
+2026-06-25 13:22:39,247 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 13:22:39,247 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 13:22:39,247 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: connecting to localhost:9094 [('127.0.0.1', 9094) IPv4]
+2026-06-25 13:22:39,248 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 13:22:39,248 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 13:22:39,248 - WARNING - No node available during check_version; sleeping 0.05 secs
+2026-06-25 13:22:39,297 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: connecting to localhost:9094 [('::1', 9094, 0, 0) IPv6]
+2026-06-25 13:22:39,299 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 13:22:39,299 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 13:22:39,300 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: connecting to localhost:9094 [('127.0.0.1', 9094) IPv4]
+2026-06-25 13:22:39,301 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 13:22:39,301 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 13:22:39,301 - WARNING - No node available during check_version; sleeping 0.10 secs
+2026-06-25 13:22:39,402 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: connecting to localhost:9094 [('::1', 9094, 0, 0) IPv6]
+2026-06-25 13:22:39,404 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 13:22:39,404 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 13:22:39,404 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: connecting to localhost:9094 [('127.0.0.1', 9094) IPv4]
+2026-06-25 13:22:39,405 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 13:22:39,405 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 13:22:39,405 - WARNING - No node available during check_version; sleeping 0.21 secs
+2026-06-25 13:22:39,613 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: connecting to localhost:9094 [('::1', 9094, 0, 0) IPv6]
+2026-06-25 13:22:39,615 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 13:22:39,615 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 13:22:39,616 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: connecting to localhost:9094 [('127.0.0.1', 9094) IPv4]
+2026-06-25 13:22:39,617 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 13:22:39,617 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 13:22:39,617 - WARNING - No node available during check_version; sleeping 0.35 secs
+2026-06-25 13:22:39,973 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: connecting to localhost:9094 [('::1', 9094, 0, 0) IPv6]
+2026-06-25 13:22:39,975 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 13:22:39,976 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 13:22:39,976 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: connecting to localhost:9094 [('127.0.0.1', 9094) IPv4]
+2026-06-25 13:22:39,977 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 13:22:39,978 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 13:22:39,978 - WARNING - No node available during check_version; sleeping 0.67 secs
+2026-06-25 13:22:40,658 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: connecting to localhost:9094 [('::1', 9094, 0, 0) IPv6]
+2026-06-25 13:22:40,660 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 13:22:40,660 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 13:22:40,661 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: connecting to localhost:9094 [('127.0.0.1', 9094) IPv4]
+2026-06-25 13:22:40,662 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Connect attempt returned error 61. Disconnecting.
+2026-06-25 13:22:40,662 - ERROR - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv4 ('127.0.0.1', 9094)]>: Closing connection. KafkaConnectionError: 61 ECONNREFUSED
+2026-06-25 13:22:40,663 - WARNING - No node available during check_version; sleeping 0.58 secs
+2026-06-25 13:37:28,548 - INFO - Stocks TSLA loaded successfully
+2026-06-25 13:37:28,864 - INFO - Stocks MSFT loaded successfully
+2026-06-25 13:37:29,170 - INFO - Stocks GOOGL loaded successfully
+2026-06-25 13:37:29,569 - INFO - Stocks MC loaded successfully
+2026-06-25 13:37:29,572 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: connecting to localhost:9094 [('::1', 9094, 0, 0) IPv6]
+2026-06-25 13:37:29,582 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <checking_api_versions_recv> [IPv6 ('::1', 9094, 0, 0)]>: Broker version identified as 2.6
+2026-06-25 13:37:29,582 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connected> [IPv6 ('::1', 9094, 0, 0)]>: Connection complete.
+2026-06-25 13:37:29,688 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=1 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: connecting to localhost:9094 [('::1', 9094, 0, 0) IPv6]
+2026-06-25 13:37:29,688 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=1 host=localhost:9094 <connected> [IPv6 ('::1', 9094, 0, 0)]>: Connection complete.
+2026-06-25 13:37:29,689 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connected> [IPv6 ('::1', 9094, 0, 0)]>: Closing connection. 
+2026-06-25 13:37:29,707 - ERROR - Topic stock_analysis not found in cluster metadata
+2026-06-25 13:38:59,022 - INFO - Stocks TSLA loaded successfully
+2026-06-25 13:38:59,342 - INFO - Stocks MSFT loaded successfully
+2026-06-25 13:38:59,642 - INFO - Stocks GOOGL loaded successfully
+2026-06-25 13:38:59,934 - INFO - Stocks MC loaded successfully
+2026-06-25 13:38:59,937 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: connecting to localhost:9094 [('::1', 9094, 0, 0) IPv6]
+2026-06-25 13:38:59,944 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <checking_api_versions_recv> [IPv6 ('::1', 9094, 0, 0)]>: Broker version identified as 2.6
+2026-06-25 13:38:59,945 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connected> [IPv6 ('::1', 9094, 0, 0)]>: Connection complete.
+2026-06-25 13:39:00,050 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=1 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: connecting to localhost:9094 [('::1', 9094, 0, 0) IPv6]
+2026-06-25 13:39:00,051 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=1 host=localhost:9094 <connected> [IPv6 ('::1', 9094, 0, 0)]>: Connection complete.
+2026-06-25 13:39:00,051 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connected> [IPv6 ('::1', 9094, 0, 0)]>: Closing connection. 
+2026-06-25 13:51:19,016 - INFO - Stocks TSLA loaded successfully
+2026-06-25 13:51:19,338 - INFO - Stocks MSFT loaded successfully
+2026-06-25 13:51:19,635 - INFO - Stocks GOOGL loaded successfully
+2026-06-25 13:51:20,055 - INFO - Stocks MC loaded successfully
+2026-06-25 13:51:20,058 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: connecting to localhost:9094 [('::1', 9094, 0, 0) IPv6]
+2026-06-25 13:51:20,071 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <checking_api_versions_recv> [IPv6 ('::1', 9094, 0, 0)]>: Broker version identified as 2.6
+2026-06-25 13:51:20,072 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connected> [IPv6 ('::1', 9094, 0, 0)]>: Connection complete.
+2026-06-25 13:51:20,176 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=1 host=localhost:9094 <connecting> [IPv6 ('::1', 9094, 0, 0)]>: connecting to localhost:9094 [('::1', 9094, 0, 0) IPv6]
+2026-06-25 13:51:20,177 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=1 host=localhost:9094 <connected> [IPv6 ('::1', 9094, 0, 0)]>: Connection complete.
+2026-06-25 13:51:20,177 - INFO - <BrokerConnection client_id=kafka-python-producer-1, node_id=bootstrap-0 host=localhost:9094 <connected> [IPv6 ('::1', 9094, 0, 0)]>: Closing connection. 

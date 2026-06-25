@@ -57,7 +57,7 @@ services:
       #Define all listerner endpoints and ports
       KAFKA_LISTENERS: PLAINTEXT_INTERNAL://kafka:9092,PLAINTEXT_EXTERNAL://0.0.0.0:9094,CONTROLLER://0.0.0.0:9093
       #Map listener names to security protocols
-      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP:PLAINTEXT_INTERNAL: PLAINTEXT, PLAINTEXT_EXTERNAL:PLAINTEXT,CONTROLLER:PLAINTEXT
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT_INTERNAL:PLAINTEXT,PLAINTEXT_EXTERNAL:PLAINTEXT,CONTROLLER:PLAINTEXT
       KAFKA_INTER_BROKER_LISTENER_NAME: PLAINTEXT_INTERNAL
       KAFKA_CONTROLLER_LISTENER_NAMES: CONTROLLER
       #Tell Kafka how it should advertise itself to clients
@@ -70,6 +70,21 @@ services:
       CLUSTER_ID: "snR9Cbt9QOCWhXOdTiX5Bw"
     volumes:
       - kafka_data:/var/lib/kafka/data
+    networks:
+      - stock_data
+
+#-----------KAFKA UI Service
+  kafka-ui:
+    image: provectuslabs/kafka-ui:v0.7.2
+    container_name: kafka-ui
+    ports:
+      - "8085:8080"
+    environment:
+      KAFKA_CLUSTERS_0_NAME: local
+      KAFKA_CLUSTERS_0_BOOTSTRAPSERVERS: kafka:9092
+      DYNAMIC_CONFIG_ENABLED: 'true'
+    depends_on:
+      - kafka
     networks:
       - stock_data
 

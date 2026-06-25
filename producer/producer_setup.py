@@ -3,7 +3,7 @@ import json
 
 topic = "stock_analysis"
 
-def kafka_producer() -> KafkaProducer:
+def init_producer() -> KafkaProducer:
     """
     Creates and returns a KafkaProducer instance.
     
